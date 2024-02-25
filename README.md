@@ -17,10 +17,22 @@
 
 ## Running
 
-* Defaults: `python3 game_of_life.py`
+* Defaults:
+	```bash
+	python3 game_of_life.py
+	```
 
-* Different Sizes: `python3 game_of_life.py -s 100`
+* Different Sizes:
+	```bash
+	python3 game_of_life.py -s 100
+	```
 
-* Different Simulation Rates: `python3 game_of_life.py -r 20`
+* Different Simulation Rates:
+	```bash
+	python3 game_of_life.py -r 20
+	```
 
-* Import Image: `python3 game_of_life.py -r 10 -i file -f presets/glider_gun.png`
+* Import Image:
+	```bash
+	python3 game_of_life.py -r 10 -i file -f presets/glider_gun.png
+	```
